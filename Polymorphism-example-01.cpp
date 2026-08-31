@@ -13,6 +13,7 @@ class Print
         cout<<y<<endl;
     }
 };
+
 int main()
 {
     Print obj;
