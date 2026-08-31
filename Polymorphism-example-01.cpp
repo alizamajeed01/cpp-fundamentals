@@ -18,4 +18,6 @@ int main()
     Print obj;
     obj.display(10);
     obj.display(12.5);
+
+    return 0;
 }
