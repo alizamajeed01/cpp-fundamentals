@@ -10,7 +10,9 @@ double add(double a,double b)
 }
 int main()
 {
+    
     cout<<add(5,3)<<endl;
     cout<<add(2.5,4.3);
 
+    return 0;
 }
